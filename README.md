@@ -1,2 +1,3 @@
 # hello-world
-This repository can be a place where you store ideas, resources, or even share and discuss things with others.
+
+I have no idea what I'm doing, but here I go!
